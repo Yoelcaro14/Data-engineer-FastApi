@@ -8,10 +8,10 @@ son normalizados y analizados para garantizar su calidad. Asi mismo, se hace uso
 
 Una vez normalizado el dataset se crea una serie de consultas a la **API**, las cuales son:
 
-* Año con más carreras
-* Piloto con mayor cantidad de primeros puestos
-* Nombre del circuito más corrido
-* Piloto con mayor cantidad de puntos en total, cuyo constructor sea de nacionalidad sea American o British
+* Consigna 1: Año con más carreras
+* Consigna 2: Piloto con mayor cantidad de primeros puestos
+* Consigna 3: Nombre del circuito más corrido
+* Consigna 4: Piloto con mayor cantidad de puntos en total, cuyo constructor sea de nacionalidad sea American o British
 
 ## Guia de consultas en la **API**
 
