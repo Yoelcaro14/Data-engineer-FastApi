@@ -15,12 +15,22 @@ Una vez normalizado el dataset se crea una serie de consultas a la **API**, las 
 
 ## Guia de consultas en la **API**
 
+Para un mejor entendimiento del contenido, se detallan los link de consulta:
+
 **http://localhost:8000/Portada** :  "welcome"
-  **1** "/guia" : 'Contenido'
-  "/docs": "Documentación generada por FastAPI",
-  "/Datasets/name": "Nombre de los Dataset a consultar",
-  "/Datasets/{carga_datos}": "Datasets de trabajo",
-  "/consigna1": "Año con más carreras",
-  "/consigna2": "Piloto con mayor cantidad de primeros puestos",
-  "/consigna3": "Nombre del circuito más corrido",
-  "/consigna4": "Piloto con mayor cantidad de puntos totales con un constructor estadounidense o británico",
+
+**http://localhost:8000/guia**: 'Contenido'
+
+**http://localhost:8000/docs"**: "Documentación generada por FastAPI",
+
+**http://localhost:8000/Datasets/name"**: "Nombre de los Dataset a consultar",
+
+**http://localhost:8000/Datasets/{carga_datos}"**: "Datasets de trabajo",
+
+**http://localhost:8000/consigna1"**: "Año con más carreras",
+
+**http://localhost:8000/consigna2"**: "Piloto con mayor cantidad de primeros puestos",
+
+**http://localhost:8000/consigna3"**: "Nombre del circuito más corrido",
+
+**http://localhost:8000/consigna4"**: "Piloto con mayor cantidad de puntos totales con un constructor estadounidense o británico",
