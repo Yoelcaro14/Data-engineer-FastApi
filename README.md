@@ -37,4 +37,4 @@ Para un mejor entendimiento del contenido, se detallan los link de consulta:
 
 ## Video Explicativo
 
-Link: 
+Link: https://youtu.be/1_Nxsg6rr2g
