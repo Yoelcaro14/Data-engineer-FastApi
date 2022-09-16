@@ -34,3 +34,7 @@ Para un mejor entendimiento del contenido, se detallan los link de consulta:
 **http://localhost:8000/consigna3"**: "Nombre del circuito más corrido",
 
 **http://localhost:8000/consigna4"**: "Piloto con mayor cantidad de puntos totales con un constructor estadounidense o británico",
+
+## Video Explicativo
+
+Link: 
