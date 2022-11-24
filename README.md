@@ -1,11 +1,6 @@
 # <h1 align="center">**Proyecto Data Engineer**</h1>
 ## <p align="center"> *Conexion FastAPI* <p>
 
-[!LorussoLogo](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffastapi.tiangolo.com%2F&psig=AOvVaw2PV9YSISIFip7koZy_gDMc&ust=1669336436422000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjvrfzIxfsCFQAAAAAdAAAAABAE)
-
-[![IMAGE ALT TEXT HERE](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffastapi.tiangolo.com%2F&psig=AOvVaw2PV9YSISIFip7koZy_gDMc&ust=1669336436422000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjvrfzIxfsCFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffastapi.tiangolo.com%2F&psig=AOvVaw2PV9YSISIFip7koZy_gDMc&ust=1669336436422000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjvrfzIxfsCFQAAAAAdAAAAABAE)
-
-
 ## Creación de una API
 
 En el presente proyecto se crea y ejecuta un API. Para ello, se trabaja con un conjunto de Datasets de distintos formatos los cuales 
