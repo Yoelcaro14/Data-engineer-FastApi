@@ -1,6 +1,8 @@
 # <h1 align="center">**Proyecto Data Engineer**</h1>
 ## <p align="center"> *Conexion FastAPI* <p>
 
+### <p align="center"> ![Image text](https://github.com/Yoelcaro14/Data-engineer-FastApi/blob/main/FasAPI.PNG)<p>
+
 ## Creación de una API
 
 En el presente proyecto se crea y ejecuta un API. Para ello, se trabaja con un conjunto de Datasets de distintos formatos los cuales 
